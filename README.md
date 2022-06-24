@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7madhav7
+- 👋 Hi, I’m Madhav Gupta.
 - 👀 I’m interested in Software development and Web development.
 - 💞️ I’m looking to collaborate on unique projects. 
 - 📫 How to reach me 7madhavgupta7@gmail.com .
